@@ -1,0 +1,9 @@
+@import './styleConstants.scss';
+
+html{
+  background-color: $secondary-color;
+  color: $basic-text-color;
+}
+body{
+  background-color: $secondary-color !important;
+}
